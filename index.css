@@ -1,0 +1,86 @@
+body{
+    display: block;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    background-color: #1C1C1C;
+}
+#main-container,
+.converter,
+.result{
+    width: 90%;
+    max-width: 550px;
+    margin: auto;
+        border-radius: 10px;
+
+
+}
+#main-container{
+    height: 729px;
+    background-color: #F4F4F4;
+    padding: 10px;
+
+}
+h1{
+    font-family: "Inter", sans-serif;
+    font-size: 28px;
+    font-weight: bolder;
+    padding-top: 15px;
+
+}
+#inputValue{
+    margin-bottom: 25px;
+    border: 2px solid #F4F4F4;
+    border-radius: 5px;
+    background-color: inherit;
+    height: 83px;
+    width: 117px;
+    font-size: 58px;
+    text-align: center;
+    font-family: "Inter", sans-serif;
+    font-weight: bold;
+    color: #F4F4F4;
+}
+
+button{
+    display: block;
+    margin: 20px auto;
+    height: 42px;
+    width: 117px;
+    border-radius: 5px;
+    border: none;
+    background-color: white;
+    color: #3D3D3D;
+    margin-bottom: 34px;
+    font-family: "Inter", sans-serif;
+}
+
+h2{
+            padding: 10px;
+
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+    color: #5A537B;
+}
+#lengthValue{
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    color: #353535;
+}
+.result{
+    background-color: white;
+    width: 500px;
+    height: 108px;
+}
+.converter{
+    padding-bottom: 20px;
+    height: 285px;
+    background-color: #6943FF;
+    color: whitesmoke;
+    
+}
+
+
+

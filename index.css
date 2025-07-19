@@ -71,7 +71,7 @@ h2{
 }
 .result{
     background-color: white;
-    width: 500px;
+    width: inherit;
     height: 108px;
 }
 .converter{
